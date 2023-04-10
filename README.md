@@ -3,7 +3,7 @@
 test spring cloud config框架
 
 
-#rabbitmq
+# rabbitmq
 
 Erlang安装：https://www.erlang.org/downloads
 
