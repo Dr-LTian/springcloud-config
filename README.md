@@ -18,3 +18,7 @@ zipkin下载： https://repo1.maven.org/maven2/io/zipkin/zipkin-server/2.14.2/
 在下载目录启动cmd执行命令启动： java -jar zipkin-server-2.14.1-exec.jar 
 
 默认端口： 9411   http://localhost:9411/zipkin/ 
+
+# mysql
+
+linux mysql安装成功后启动命令：mysql -uroot -p 
